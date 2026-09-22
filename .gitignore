@@ -1,3 +1,5 @@
+config.json
+
 # Ignore Visual Studio Code settings folder
 .vscode
 # environment variables
