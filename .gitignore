@@ -4,3 +4,5 @@
 .env
 .venv
 
+#folders to ignore 
+ActualTimberHarvested_BC_NationalForestryDatabase.csv/
